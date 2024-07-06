@@ -1,14 +1,14 @@
 {
-  "name": "Zokou-2.0",
-  "description": "bot whatsapp développé par djalega++",
+  "name": "Bmw md v6",
+  "description": "bot whatsapp déveloped by Ibrahim Adams",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
-  "repository": "https://github.com/djalega8000/Zokou-2.0",
+  "logo": "https://telegra.ph/file/7ec4aa710486c41fa26d6.jpg",
+  "repository": "https://github.com/ibrahimaitech/web",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -34,7 +34,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "Zokou-MD",
+      "value": "BMW-MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -63,12 +63,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "Djalega++"
+      "value": "Ibrahim Adams"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "22891733300"
+      "value": "254710772666"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
